@@ -7,6 +7,8 @@ Interaktives Notebook zur proportionalen Pegel- und Frequenzänderung.
 ## Schwebung [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LukasWuenschelTUBS/TechnischeAkustikUebungJupyterNotebooks/master?urlpath=%2Fdoc%2Ftree%2FJupyterNotebooks%2FTA_Schwebung.ipynb)
 Interaktives Notebook zur Schwebung und binauralen Schwebung mit bis zu drei Sinus-Signalen.
 
+## Überlagerung von Wellen und Rauschen [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LukasWuenschelTUBS/TechnischeAkustikUebungJupyterNotebooks/master?urlpath=%2Fdoc%2Ftree%2FJupyterNotebooks%2FTA_Wellen_Superposition_und_Rauschen.ipynb)
+Interaktives Notebook zur Überlagerung von Wellen, konstruktiver und destruktiver Interferenz. Zumdem sind die verschiedenen Arten (Farben) von Rauschen angegeben.
 
 
 
